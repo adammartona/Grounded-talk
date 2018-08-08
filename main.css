@@ -1,0 +1,15 @@
+body{
+background-image:url("hatter.png");
+}
+#logo{
+	width:14%;
+	margin-top:0.3%;
+	margin-left:2%;
+}
+.header{
+margin-top:-1.7%;
+}
+.nav{
+float:center;
+margin-top:2%;
+}
